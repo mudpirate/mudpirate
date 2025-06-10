@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mud Pirate👋
 
-## 🚀 Learning Full Stack Developer | Building Digital Solutions
+## 🚀 Learning Full Stack Development 
 I'm a passionate undergrad learning full-stack development who loves creating efficient, scalable, and user-friendly applications. I enjoy working across the entire development stack, from crafting intuitive user interfaces to designing robust backend systems.
 
 ### 🔭 Currently Working On
