@@ -7,8 +7,7 @@ I'm a passionate undergrad learning full-stack development who loves creating ef
 
 ### 🔭 Currently Working On
 - Building modern web applications with React and Node.js
-- Exploring cloud architecture and microservices
-- Contributing to open-source projects
+
 
 
 ## 🛠️ Tech Stack
