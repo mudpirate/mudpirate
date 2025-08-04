@@ -3,7 +3,7 @@
 # Hi there, I'm Mud Pirate👋(https://nomeshsinghportfolio.vercel.app)
 
 ## 🚀Full Stack Developer
-I'm a passionate undergrad learning full-stack development who loves creating efficient, scalable, and user-friendly applications. I enjoy working across the entire development stack, from crafting intuitive user interfaces to designing robust backend systems.
+I'm a passionate  full-stack developer who loves creating efficient, scalable, and user-friendly applications. I enjoy working across the entire development stack, from crafting intuitive user interfaces to designing robust backend systems.
 
 ### 🔭 Currently Working On
 - Building modern web applications with React and express.js
